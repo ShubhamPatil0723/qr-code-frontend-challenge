@@ -25,7 +25,7 @@ In this repository, you will find code related to QR code challenge (Btw first c
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](http://www.qr-code-challenge.com/)
 
 ## My process
 
