@@ -24,8 +24,8 @@ In this repository, you will find code related to QR code challenge (Btw first c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://www.qr-code-challenge.com/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/qr-code-component-Iqdj7DI95O)
+- Live Site URL: [Live site URL](https://shubhampatil0723.github.io/qr-code-frontend-challenge/)
 
 ## My process
 
@@ -43,5 +43,5 @@ and most important skill how to center a div :laughing:
 ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ShubhamPatil0723](https://www.frontendmentor.io/profile/ShubhamPatil0723)
 - Twitter - [@ShubhamO723](https://www.twitter.com/ShubhamO723)
